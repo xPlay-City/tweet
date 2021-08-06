@@ -1,5 +1,5 @@
 description 'Enables use of /tweet for in character chat.'
-server_script 'server.lua'
+servr_script 'server.lua'
 ------------------------------------------------------------------------- Creat by: xPlay City
 XXXXXXXXXXXXXXXXXXXX                   XXXXXXXXXXXXXXXXXXXX
  XXXXXXXXXXXXXXXXXXXX                 XXXXXXXXXXXXXXXXXXXX
