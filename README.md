@@ -1,20 +1,10 @@
-#tweet
+# TWEET
+## Description
+for tweet in chat
 
-for tweet in chat.
+### Instalation
 
+- rename this file to `tweet`
+- Add `start tweet` to your server.cfg
 
-
-
-
-
-Hi
-
-I'm xPlayer
-
-I'm not developer
-
-bot I make script sometimes
-
-xPlayer City Discord: https://discord.gg/8JmHeWRB
-
-Bye
+## Create by: xPlay City
