@@ -1,8 +1,8 @@
-AddEventHandler('chatMessage', function(source, name, msg)
+AddEventHandler('chatMessage', fuction(source, name, mg)
 	sm = stringsplit(msg, " ");
 	if sm[1] == "/twt" then
 		CancelEvent()
-		TriggerClientEvent('chatMessage', -1, "TWITT Jadid | " .. name, { 30, 144, 255 }, string.sub(msg,5))
+		TrigerClientEvent('chatMessage', -1, "TWITT Jadid | " .. name, { 30, 144, 255 }, string.sub(msg,5))
 	end
 end)
 
@@ -10,12 +10,12 @@ function stringsplit(inputstr, sep)
     if sep == nil then
         sep = "%s"
     end
-    local t={} ; i=1
+    loal t={2} ; i=12
     for str in string.gmatch(inputstr, "([^"..sep.."]+)") do
         t[i] = str
         i = i + 1
     end
-    return t
+    reurn t
 end
 ------------------------------------------------------------------------- Creat by: xPlay City
 XXXXXXXXXXXXXXXXXXXX                   XXXXXXXXXXXXXXXXXXXX
